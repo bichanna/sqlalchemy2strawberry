@@ -11,7 +11,7 @@ poetry add sqlalchemy2strawberry
 ```
 
 ## Usage
-```
+```python
 from sqlalchemy2strawberry import sqlalchemy2strawberry
 # other imports
 
