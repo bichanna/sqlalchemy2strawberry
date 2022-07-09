@@ -3,6 +3,14 @@ name = "sqlalchemy2strawberry"
 version = "0.0.1"
 description = "A simple tool to convert SQLAlchemy models to Strawberry types"
 authors = ["bichanna <nobu.bichanna@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/bichanna/sqlalchemy2strawberry"
+repository = "https://github.com/bichanna/sqlalchemy2strawberry"
+keywords = ["convert", "sqlalchemy", "strawberry", "graphql"]
+include = [
+    "LICENSE",
+]
 
 [tool.poetry.dependencies]
 python = "^3.7"
